@@ -69,8 +69,8 @@ select * from payment
 select * from Parking
 
 Insert into Customer values
-('1S','mrd','Manan','Dedhia','mrdedhia@syr.edu','3153957788',23,'Boston','Student'),
-('1F','ajk','Advaith','Kamath','adkamath@syr.edu','3153957974',24,'New York City','Faculty')
+(),
+()
 
 Insert into Vehicle values
 ('BO234H','1S','Silver'),
